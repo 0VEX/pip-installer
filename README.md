@@ -7,7 +7,7 @@
 
 ## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟 Star this Repository if you enjoy pip installer tool!
 
-**NOTE:** This tool was programmed by V E X + MrVF<a href="https://instagram.com/mr_vf_h"a> , please if you want to edit the tool or upload it mention me .
+**NOTE:** This tool was programmed by V E X + MrVF , please if you want to edit the tool or upload it mention me .
 
 ---
 
@@ -20,7 +20,7 @@ Love ❌ code ✅
 - pip installer is basic tool that help you install python libraries
 - pip installer was made by V E X + MrVF
   > tool preview:
-  <p align="left"><img src="https://g.top4top.io/p_2301xg1nd1.gif">
+  <p align="left"><img src="https://a.top4top.io/p_2301i8kkg1.png">
   
 ### 📁・How to use pip installer tool :
   
