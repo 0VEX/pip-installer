@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/0VEX/py-to-exe?style=flat-square">
-  <img src="https://img.shields.io/github/last-commit/0VEX/py-to-exe?style=flat-square">
-  <img src="https://img.shields.io/github/stars/0VEX/py-to-exe?color=%23daff00&label=Stars&style=flat-square">
-  <img src="https://img.shields.io/github/forks/0VEX/py-to-exe?color=%23daff00&label=Forks&style=flat-square">
+  <img src="https://img.shields.io/github/languages/top/0VEX/pip-installer?style=flat-square">
+  <img src="https://img.shields.io/github/last-commit/0VEX/pip-installer?style=flat-square">
+  <img src="https://img.shields.io/github/stars/0VEX/pip-installer?color=%23daff00&label=Stars&style=flat-square">
+  <img src="https://img.shields.io/github/forks/0VEX/pip-installer?color=%23daff00&label=Forks&style=flat-square">
 </p>
 
 ## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟 Star this Repository if you enjoy pip installer tool!
