@@ -1,8 +1,3 @@
-from time import time
-
-import colorama
-
-
 import os
 from colorama import Fore , init
 
